@@ -1,3 +1,3 @@
 # human_following
 
-Smart Wheelchair human follwoting program using YOLOv5
+Smart wheelchair human following program using YOLOv5
